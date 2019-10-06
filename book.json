@@ -48,7 +48,8 @@
         "popup",
         "todo",
         "-sharing",
-        "sharing-plus"
+        "sharing-plus",
+	"chapter-fold"
     ],
     "pluginsConfig": {
         "github-buttons": {
