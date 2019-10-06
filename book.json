@@ -10,6 +10,7 @@
         }
     },
     "plugins": [
+        "expandable-chapters",
         "pageview-count",
         "mygitalk",
         "github",
