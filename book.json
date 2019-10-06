@@ -49,7 +49,7 @@
         "todo",
         "-sharing",
         "sharing-plus",
-	"chapter-fold"
+	 "chapter-fold"   , "expandable-chapters"
     ],
     "pluginsConfig": {
         "github-buttons": {
