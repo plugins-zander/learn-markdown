@@ -1,31 +1,30 @@
-# 本书简介
+## 本书简介
 
 本书地址为https://zlogs.net/learn-markdown
 
 本书为个人学习markdown系列笔记，其他更多系列笔记可以关注https://zlogs.net/learn-books
 
-<br />
+
+## 本书速查
 
 如果只是简要了解，或者知道如何使用，速查语法可以查看[语法速查](books/01.md)
 
 本书介绍及组织脉络是从文章排版角度，而非官方文档脉络或者其他角度
 
-<br />
+
+## 本书标准
 
 本书标准参考<https://spec.commonmark.org/0.29/>
 
 其他参考均在文中列出，如有为列出或者侵权行为请在对应文章下方留言
 
-<br />
+
+## 本书版权
 
 关于版权和转载请阅读[learn-books简介](https://zlogs.net/learn-books/)
 
-<br />
 
-本书正在更新中,下为本书脉络
-
-<br />
-
+## 本书脉络
 ```markdown
 # Summary
 * [本书简介](README.md)
@@ -77,3 +76,10 @@
   * [引用](books/08-4.md)
 ```
 
+## 更新日志
+
+
+
+* 2019.10.06
+ * markdown语法速查完成
+ * 解决目录折叠相关错误
